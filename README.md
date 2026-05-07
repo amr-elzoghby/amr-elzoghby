@@ -31,7 +31,6 @@
 ---
 
 ## 🔥 Featured Project: ShopMicro 
-**[View Repository](https://github.com/amr-elzoghby/web-app)**
 
 A highly scalable e-commerce microservices architecture.
 *   **Infrastructure:** Provisioned entirely with **Terraform** (VPC, Endpoints, EKS).
@@ -39,13 +38,13 @@ A highly scalable e-commerce microservices architecture.
 *   **Auto-Scaling:** HPA + Cluster Autoscaler (Scale from 2 to 20 pods seamlessly).
 *   **Observability:** Full monitoring stack with **Prometheus, Grafana, and Loki**.
 
----
-
-## 🟩 Contributions Graph
-
+<br>
 <div align="center">
-  <img src="https://ghchart.rshah.org/amr-elzoghby" alt="Amr's Contribution Graph" />
+  <a href="https://github.com/amr-elzoghby/web-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amr-elzoghby&repo=web-app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ShopMicro Repository" />
+  </a>
 </div>
+<br>
 
 ---
 
