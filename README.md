@@ -1,71 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Amr%20Saad%20EL-zoghby&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <h1>Hi, I'm Amr Saad EL-zoghby ☁️</h1>
   
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Architect;DevOps+%26+MLOps+Engineer;Automating+The+Future;Still+in+high+school.+Already+shipping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Architect;DevOps+%26+MLOps+Engineer;Automating+The+Future;Still+in+high+school.+Already+shipping." alt="Typing SVG" />
   </a>
+
+  <br><br>
+
+  <a href="https://d2u3ifcyc2tvxh.cloudfront.net"><img src="https://img.shields.io/badge/Portfolio-White?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amr-saad-27070b3a8"><img src="https://img.shields.io/badge/LinkedIn-White?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="mailto:amr.s.elzoghby@gmail.com"><img src="https://img.shields.io/badge/Email-White?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 </div>
 
+<br>
+
+<div align="center">
+  <h3>I am a fast-learning Junior DevOps & MLOps Engineer with a relentless drive for building scalable infrastructure.</h3>
+  <p><i>"Understand the fundamentals, don't just use the tools."</i></p>
+</div>
+
+---
+
+### 🚀 What I'm Up To
+- 🏗️ **Building:** Production-grade microservices on AWS EKS.
+- 🧠 **Learning:** Forward Thinking (McKinsey & Co) & AI/MLOps.
+- 🎯 **Goal:** Bridging the gap between Machine Learning and production infrastructure.
+
+---
+
+### 💻 Tech Stack
+
 <p align="center">
-  <a href="https://d2u3ifcyc2tvxh.cloudfront.net"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00FF00" /></a>
-  <a href="https://www.linkedin.com/in/amr-saad-27070b3a8"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amr.s.elzoghby@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,bash,git,githubactions,grafana,prometheus&perline=12&theme=dark" />
+  </a>
 </p>
 
 ---
 
-<table border="0" width="100%" align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Who am I?</h3>
-      <p>I am a fast-learning <b>Junior DevOps & MLOps Engineer</b> with a relentless drive for building scalable infrastructure. My philosophy is simple: <i>understand the fundamentals, don't just use the tools</i>.</p>
-      <ul>
-        <li>🏗️ <b>Currently Building:</b> Production-grade microservices on AWS EKS.</li>
-        <li>🧠 <b>Currently Learning:</b> Forward Thinking (McKinsey & Co) & AI/MLOps.</li>
-        <li>🎯 <b>Goal:</b> Bridging the gap between Machine Learning and production infrastructure.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h3>📊 Code Metrics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=amr-elzoghby&show_icons=true&theme=radium&hide_border=true&bg_color=00000000" width="100%" />
-    </td>
-  </tr>
-</table>
+### 🔥 Featured Project: Scalable 10k E-Commerce
+**[View Repository](https://github.com/amr-elzoghby/scalable-10k-ecommerce-eks)**
+
+A production-ready microservices architecture built from scratch and engineered to withstand massive traffic spikes with zero downtime.
+- Orchestrated **5 Node.js microservices** on AWS EKS.
+- Load-tested to handle **10,000+ concurrent users** via HPA & Cluster Autoscaler.
+- 100% automated provisioning using modular **Terraform** (VPC, EKS, Endpoints).
+- CI/CD pipelines via **GitHub Actions** with OIDC (No stored AWS keys).
 
 ---
 
-### 💻 Arsenal & Tech Stack
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,nodejs,bash,git,githubactions,grafana,prometheus&perline=14&theme=dark" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-elzoghby&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8b949e&icon_color=FFFFFF" alt="Amr's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elzoghby&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Amr's Streak" width="48%" />
+</p>
 
----
-
-### 🏆 Masterpiece Project
-
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h4>🔥 <a href="https://github.com/amr-elzoghby/scalable-10k-ecommerce-eks">Scalable 10k E-Commerce EKS</a></h4>
-      <p>A production-ready microservices architecture built from scratch. Engineered to withstand massive traffic spikes with zero downtime.</p>
-      <b>Highlights:</b>
-      <ul>
-        <li>Orchestrated <b>5 Node.js microservices</b> on AWS EKS.</li>
-        <li>Load-tested to handle <b>10,000+ concurrent users</b> via HPA & Cluster Autoscaler.</li>
-        <li>100% automated provisioning using modular <b>Terraform</b>.</li>
-        <li>CI/CD pipelines via <b>GitHub Actions</b> with OIDC (No stored AWS keys).</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amr-elzoghby&repo=scalable-10k-ecommerce-eks&theme=radium&hide_border=true&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elzoghby&theme=radium&hide_border=true&background=00000000" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elzoghby&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8b949e" alt="Top Languages" width="60%" />
+</p>
