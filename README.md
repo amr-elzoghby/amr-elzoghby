@@ -1,21 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111111,333333,111111&height=200&section=header&text=Amr%20Saad%20EL-zoghby&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&lines=Junior+DevOps+%26+MLOps+Engineer;Automating+Infrastructure;Still+in+high+school.+Already+shipping." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Amr%20Saad%20EL-zoghby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
-<p align="center">
+<div align="center">
+  <i>Bridging the gap between Machine Learning and production infrastructure.</i><br>
+  <i>Understand the fundamentals, don't just use the tools.</i>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://d2u3ifcyc2tvxh.cloudfront.net"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amr-saad-27070b3a8"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amr.s.elzoghby@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">✦ Core Technologies ✦</h3>
-<p align="center">
+### ✦ Professional Summary
+
+I am a fast-learning **Junior DevOps & MLOps Engineer** driven by a relentless desire to architect robust, scalable systems. Currently enrolled in the **Forward Thinking** program by *McKinsey & Company*. 
+
+**Motto:** *Still in high school. Already shipping.*
+
+---
+
+### ✦ Core Technologies
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,bash,git,githubactions,grafana,prometheus&perline=12&theme=dark" />
   </a>
@@ -23,20 +35,24 @@
 
 ---
 
-<table width="100%" align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Engineering Focus</h3>
-      <p>I am driven by a relentless desire to understand the fundamentals of system architecture. Bridging the gap between <b>Machine Learning</b> and <b>Production Infrastructure</b>.</p>
-      <br>
-      <h3>🔥 Featured Work</h3>
-      <p><b><a href="https://github.com/amr-elzoghby/web-app">ShopMicro: 10k Scale E-Commerce</a></b></p>
-      <p>A production-ready architecture built from scratch. Orchestrated 5 Node.js microservices on AWS EKS, load-tested to withstand <b>10,000+ users</b> via HPA. Automated using modular Terraform and secured with OIDC GitHub Actions.</p>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=amr-elzoghby&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" width="100%" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elzoghby&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3" width="100%" />
+### ✦ Featured Architecture
+
+**[ShopMicro: 10k Scale E-Commerce](https://github.com/amr-elzoghby/web-app)**
+
+A production-ready microservices architecture built entirely from scratch. Engineered to withstand massive traffic spikes with zero downtime.
+
+*   **Orchestration:** Deployed 5 Node.js microservices on **AWS EKS**.
+*   **Scalability:** Load-tested to handle **10,000+ concurrent users** via HPA & Cluster Autoscaler.
+*   **Automation:** 100% automated provisioning using modular **Terraform**.
+*   **Security:** CI/CD pipelines via **GitHub Actions** with OIDC (No stored AWS keys).
+
+---
+
+### ✦ GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elzoghby&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
     </td>
   </tr>
 </table>
