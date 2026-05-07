@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Amr!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20MLOps&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20Amr!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20MLOps&descAlignY=55&descAlign=62" />
 </div>
 
 <h3 align="center">Automating infrastructure, building CI/CD pipelines, and bridging the gap between machine learning and production systems.</h3>
@@ -24,20 +24,28 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,nodejs,bash,git,githubactions,grafana,prometheus&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,bash,git,githubactions,grafana,prometheus&perline=14" />
   </a>
 </p>
 
 ---
 
 ## 🔥 Featured Project: ShopMicro 
-**[View Repository](https://github.com/amr-elzoghby/scalable-10k-ecommerce-eks)**
+**[View Repository](https://github.com/amr-elzoghby/web-app)**
 
 A highly scalable e-commerce microservices architecture.
 *   **Infrastructure:** Provisioned entirely with **Terraform** (VPC, Endpoints, EKS).
 *   **Containerization:** 5 Node.js microservices + Databases orchestrated on **Kubernetes**.
 *   **Auto-Scaling:** HPA + Cluster Autoscaler (Scale from 2 to 20 pods seamlessly).
 *   **Observability:** Full monitoring stack with **Prometheus, Grafana, and Loki**.
+
+---
+
+## 🟩 Contributions Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/amr-elzoghby" alt="Amr's Contribution Graph" />
+</div>
 
 ---
 
