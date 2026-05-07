@@ -1,47 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Amr%20Saad%20EL-zoghby&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20MLOps&descAlignY=55&descAlign=62" width="100%"/>
+# Amr Saad EL-zoghby
+*Junior DevOps & MLOps Engineer*
 
-<div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Automating+The+Future;Still+in+high+school.+Already+shipping." alt="Typing SVG" />
-  </a>
-</div>
+> Bridging the gap between Machine Learning and production infrastructure.  
+> Understand the fundamentals, don't just use the tools.  
+> *Still in high school. Already shipping.*
 
-<p align="center">
-  <a href="https://d2u3ifcyc2tvxh.cloudfront.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/amr-saad-27070b3a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amr.s.elzoghby@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[Portfolio](https://d2u3ifcyc2tvxh.cloudfront.net) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/amr-saad-27070b3a8) &nbsp;&middot;&nbsp; [Email](mailto:amr.s.elzoghby@gmail.com)
 
 ---
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">⚡ About Me</h2>
-      <p>I am a <b>Junior DevOps & MLOps Engineer</b> with a relentless drive for building scalable infrastructure. <i>Understand the fundamentals, don't just use the tools.</i></p>
-      <br>
-      <ul>
-        <li>🏗️ <b>Building:</b> Production-grade microservices on AWS EKS.</li>
-        <li>🧠 <b>Learning:</b> Forward Thinking (McKinsey & Co) & AI/MLOps.</li>
-        <li>🎯 <b>Goal:</b> Bridging the gap between Machine Learning and production.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">🏆 GitHub Trophies</h2>
-      <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=amr-elzoghby&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### ✦ Current Focus
+- Architecting production-grade microservices on **AWS EKS**.
+- Enrolled in the *Forward Thinking* program by **McKinsey & Company**.
+
+### ✦ Featured Work
+**[ShopMicro: 10k Scale E-Commerce](https://github.com/amr-elzoghby/web-app)**  
+A production-ready architecture built from scratch. Orchestrated 5 Node.js microservices on AWS EKS, load-tested to withstand **10,000+ concurrent users** via HPA & Cluster Autoscaler. Fully automated using modular Terraform and secured with OIDC GitHub Actions.
+
+### ✦ Core Stack
+- **Cloud & IaC:** AWS, Terraform, Linux
+- **Orchestration:** Kubernetes (EKS), Docker, Helm
+- **Observability:** Prometheus, Grafana, Loki
+- **CI/CD & Scripting:** GitHub Actions, Bash, Python
 
 ---
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
+*Driven by curiosity. Always building.*
     <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx,python,bash,git,githubactions,grafana,prometheus&perline=12&theme=dark" />
   </a>
 </p>
