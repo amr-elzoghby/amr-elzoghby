@@ -62,7 +62,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -82,9 +81,9 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amr-elzoghby&repo=High-Scale-Ecommerce-K8s-15K-Concurrent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ShopScale Repository" />
-  </a>
+
+[![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s--15K--Concurrent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent)
+
 </div>
 <br>
 
@@ -93,13 +92,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amr-elzoghby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Amr's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=amr-elzoghby&theme=tokyonight&hide_border=true&background=0D1117" alt="Amr's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=amr-elzoghby&theme=tokyonight&hide_border=true&background=0D1117" alt="Amr's GitHub Streak" width="60%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elzoghby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-elzoghby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</div>
 
 ---
 
