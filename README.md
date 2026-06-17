@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <a href="https://d2u3ifcyc2tvxh.cloudfront.net">
+  <a href="https://d2udg2xbc863j7.cloudfront.net">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D1117?style=for-the-badge&labelColor=2D9CDB" />
   </a>
   &nbsp;
@@ -28,7 +28,8 @@
 
 - 🔭 Currently focused on **Cloud Infrastructure, Container Orchestration (EKS/K8s), and IaC (Terraform)**
 - 🏗️ Just shipped: A production-grade **E-Commerce Microservices Platform** on AWS EKS, load-tested for **15,000+ concurrent users**
-- 🎓 Constantly learning and building — currently enrolled in the **Forward Thinking** program by **McKinsey & Company**
+- 🤝 Highly collaborative and eager to bridge the gap between complex tech stacks and business goals
+- 💼 **Available immediately for full-time remote opportunities.**
 - 💡 *"Still in high school. Already shipping to production."*
 
 ---
@@ -45,18 +46,21 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-**CI/CD & Automation**
+**CI/CD & GitOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Observability & Networking**
+**Observability & Security**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5C400?style=for-the-badge&logo=grafana&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-1D262F?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00A89D?style=for-the-badge&logo=falco&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Languages**
@@ -74,9 +78,10 @@
 | | |
 |:---|:---|
 | ☁️ **Infrastructure** | Modular Terraform IaC (VPC → EKS) with isolated state layers |
-| ☸️ **Orchestration** | 5 Node.js microservices on **Kubernetes EKS** |
+| ☸️ **Orchestration** | Node.js & Python FastAPI on **Kubernetes EKS** with **gRPC** |
 | ⚡ **Auto-Scaling** | HPA + Cluster Autoscaler — **15,000+ concurrent users** load-tested |
-| 🔒 **Security** | IRSA, OIDC, IMDSv2, non-root containers, VPC Endpoints (no NAT Gateway) |
+| 🔄 **CI/CD & GitOps**| GitHub Actions (OIDC) + **ArgoCD** for zero-touch deployments |
+| 🔒 **Security** | IRSA, Trivy, Falco, VPC Endpoints (no NAT Gateway) |
 | 📊 **Observability** | Prometheus + Grafana + Loki — auto-deployed via Helm |
 
 <br>
