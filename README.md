@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20Amr!%20👋&fontSize=52&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20AWS%20%2F%20Kubernetes%20%2F%20IaC&descAlignY=57&descAlign=50&descSize=16" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00A89D&center=true&vCenter=true&width=750&height=70&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;I'm+Amr+Elzoghby+%E2%9E%9F+DevOps+%26+Platform+Engineer;Building+Cloud+Infrastructure+%26+Multi-Tenant+Platforms;Automating+Everything+with+Terraform%2C+Crossplane+%26+GitOps" alt="Welcome Typing Animation" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A89D&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+%E2%9E%9F+Amr+Elzoghby+(DevOps+%26+Platform+Engineer);%24+status+%E2%9E%9F+High+School+Graduate+%7C+Entering+University+(2026);%24+stack+%E2%9E%9F+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Crossplane+%7C+ArgoCD;%24+impact+%E2%9E%9F+Multi-Tenant+K8s+IDP+%26+15K-User+E-Commerce+Platform" alt="Typing Terminal Animation" />
-</div>
-
-<br>
 
 <div align="center">
 
