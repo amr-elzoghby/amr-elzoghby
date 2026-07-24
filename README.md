@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00A89D&center=true&vCenter=true&width=750&height=70&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;I'm+Amr+Elzoghby+%E2%9E%9F+DevOps+%26+Platform+Engineer;Building+Cloud+Infrastructure+%26+Multi-Tenant+Platforms;Automating+Everything+with+Terraform%2C+Crossplane+%26+GitOps" alt="Welcome Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00A89D&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;Amr+Elzoghby+%E2%9E%9F+DevOps+%26+Platform+Engineer;Building+Multi-Tenant+Cloud+Platforms+on+AWS;Automating+IaC%2C+Kubernetes+%26+GitOps+Pipelines" alt="Welcome Typing Animation" />
 </div>
 
 <div align="center">
