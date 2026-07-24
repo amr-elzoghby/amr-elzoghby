@@ -1,36 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Hi%20there,%20I'm%20Amr!%20👋&fontSize=55&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20AWS%20%2F%20Kubernetes%20%2F%20Terraform&descAlignY=57&descAlign=50&descSize=17" />
+
+```bash
+ ┌─────────────────────────────────────────────────────────────────────────────┐
+ │  amr@platform-node:~$ whoami                                                │
+ │  ▸ Amr Elzoghby — DevOps & Platform Engineer                                │
+ │                                                                             │
+ │  amr@platform-node:~$ cat ~/profile.json                                    │
+ │  {                                                                          │
+ │    "status": "🟢 Open for Remote Full-Time DevOps / Platform Roles",       │
+ │    "education": "High School Graduate (July 2026) | University Entry (2026)",│
+ │    "core_stack": ["AWS", "EKS", "Terraform", "Crossplane", "ArgoCD"],       │
+ │    "location": "Egypt (Remote Worldwide)"                                   │
+ │  }                                                                          │
+ │                                                                             │
+ │  amr@platform-node:~$ kubectl get platform-components                       │
+ │  NAME              STATUS    PROVIDER     DESCRIPTION                       │
+ │  eks-cluster       Active    AWS          Production EKS Control Plane      │
+ │  crossplane-iac    Ready     AWS          Self-Service RDS, S3, Redis, EC2 │
+ │  argocd-gitops     Synced    Kubernetes   Zero-Touch Continuous Delivery    │
+ │  kyverno-security  Enforced  Kubernetes   Automated Security & Cost Engine  │
+ └─────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <h3 align="center">
-  Automating infrastructure, building Internal Developer Platforms, and shipping production-grade systems.
+  Automating Cloud Infrastructure • Building Multi-Tenant Platforms • Shipping Zero-Touch GitOps
 </h3>
 
 <div align="center">
-  <a href="https://d2udg2xbc863j7.cloudfront.net">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D1117?style=for-the-badge&labelColor=2D9CDB" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amr-saad-27070b3a8">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:amr.s.elzoghby@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![Status](https://img.shields.io/badge/Status-🟢%20Available%20for%20Remote%20DevOps%20%2F%20Platform%20Roles-00A89D?style=for-the-badge&labelColor=0D1117)](mailto:amr.s.elzoghby@gmail.com)
+
+<br><br>
+
+<a href="https://d2udg2xbc863j7.cloudfront.net">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D1117?style=for-the-badge&labelColor=2D9CDB" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amr-saad-27070b3a8">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:amr.s.elzoghby@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <br />
 
 ---
 
-## 🚀 About Me
+## 💡 Engineering Core Values
 
-- 🔭 Currently focused on **Platform Engineering, Cloud Infrastructure (AWS), IaC (Terraform/Crossplane), and Kubernetes**
-- 🏗️ Just shipped: A multi-tenant **Internal Developer Platform (IDP)** on AWS EKS with Crossplane self-service & Kyverno guardrails
-- ⚡ Also built: A high-scale **E-Commerce Microservices Platform** on AWS EKS, load-tested for **15,000+ concurrent users**
-- 💼 **Available immediately for full-time remote opportunities.**
-- 🎓 High school graduate (Class of 2026) | Entering University Degree Program (Fall 2026)
+> *"Infrastructure as Code, Zero-Touch GitOps, Cost-Aware Auto-Scaling."*  
+> *"Eliminating developer friction while maintaining strict security guardrails."*
+
+---
+
+## 🛠️ Architecture & Projects Matrix
+
+| Architecture Layer | 🛠️ Internal Developer Platform (IDP) | 🛒 ShopScale E-Commerce |
+| :--- | :--- | :--- |
+| **System Category** | Multi-Tenant Self-Service Platform | High-Scale Microservices Platform |
+| **Capacity / Scale** | Virtual Control Planes per Team | **15,000+ Concurrent Users** Load-Tested |
+| **Infrastructure as Code** | **Crossplane** (CRDs) + **Terraform** | Modular Terraform IaC (VPC → EKS) |
+| **Control Plane & Nodes** | **EKS** + **vCluster** + **Karpenter** | **EKS** + HPA + Spot Nodes |
+| **GitOps & Delivery** | **ArgoCD ApplicationSets** + OIDC | **ArgoCD** + GitHub Actions (OIDC) |
+| **Security & Policies** | **Kyverno ClusterPolicies** + Trivy | IRSA + Falco + Secrets Manager |
+| **Cost Optimization** | VPC Endpoints (No NAT) + vCluster | VPC Endpoints ($32/mo Saved) |
+| **Repository** | [![IDP Repo](https://img.shields.io/badge/GitHub-Internal--Developer--Platform-181717?style=flat-square&logo=github)](https://github.com/amr-elzoghby/Internal-Developer-Platform) | [![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s-181717?style=flat-square&logo=github)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent) |
 
 ---
 
@@ -38,7 +78,7 @@
 
 <div align="center">
 
-**Cloud & Infrastructure**
+**Cloud Infrastructure & IaC**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -47,7 +87,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-**CI/CD, GitOps & Multi-Tenancy**
+**GitOps, CI/CD & Multi-Tenancy**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
@@ -56,7 +96,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Governance, Security & Observability**
+**Security, Governance & Observability**
 
 ![Kyverno](https://img.shields.io/badge/Kyverno-009639?style=for-the-badge&logo=kyverno&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -73,54 +113,7 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛠️ 1. Internal Developer Platform (IDP)
-
-> Self-service cloud infrastructure & multi-tenant GitOps platform built on AWS EKS.
-
-| | |
-|:---|:---|
-| ☁️ **Cloud & Multi-Tenancy** | AWS EKS, Terraform, **vCluster** virtual control planes, **Karpenter** autoscaling |
-| 📦 **IaC Self-Service** | **Crossplane** (RDS, S3, Redis, EC2 & SecurityGroups via K8s CRDs) |
-| 🔄 **GitOps & CI/CD** | **ArgoCD ApplicationSets** + **GitHub Actions OIDC** + ECR auto-builds |
-| 🛡️ **Governance & Security** | **Kyverno** ClusterPolicies (Pod security & Crossplane cost guardrails), Trivy |
-| 🔒 **Network & Security** | AWS KMS encryption, IMDSv2, IRSA IAM roles, non-NAT VPC Endpoints |
-
-<br>
-<div align="center">
-
-[![IDP Repo](https://img.shields.io/badge/GitHub-Internal--Developer--Platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/Internal-Developer-Platform)
-
-</div>
-<br>
-
----
-
-### 🛒 2. ShopScale — High-Scale E-Commerce Platform
-
-> Production-grade e-commerce microservices platform, engineered for scale.
-
-| | |
-|:---|:---|
-| ☁️ **Infrastructure** | Modular Terraform IaC (VPC → EKS) with isolated state layers |
-| ☸️ **Orchestration** | Node.js & Python FastAPI on **Kubernetes EKS** with **gRPC** |
-| ⚡ **Auto-Scaling** | HPA + Cluster Autoscaler — **15,000+ concurrent users** load-tested |
-| 🔄 **CI/CD & GitOps**| GitHub Actions (OIDC) + **ArgoCD** for zero-touch deployments |
-| 🔒 **Security** | IRSA, Trivy, Falco, VPC Endpoints (no NAT Gateway) |
-| 📊 **Observability** | Prometheus + Grafana + Loki — auto-deployed via Helm |
-
-<br>
-<div align="center">
-
-[![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s--15K--Concurrent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent)
-
-</div>
-<br>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=amr-elzoghby&theme=tokyonight&hide_border=true&background=0D1117" alt="Amr's GitHub Streak" width="60%" />
