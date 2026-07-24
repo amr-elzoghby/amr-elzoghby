@@ -1,32 +1,12 @@
 <div align="center">
-
-```bash
- ┌─────────────────────────────────────────────────────────────────────────────┐
- │  amr@platform-node:~$ whoami                                                │
- │  ▸ Amr Elzoghby — DevOps & Platform Engineer                                │
- │                                                                             │
- │  amr@platform-node:~$ cat ~/profile.json                                    │
- │  {                                                                          │
- │    "status": "🟢 Open for Remote Full-Time DevOps / Platform Roles",       │
- │    "education": "High School Graduate (July 2026) | University Entry (2026)",│
- │    "core_stack": ["AWS", "EKS", "Terraform", "Crossplane", "ArgoCD"],       │
- │    "location": "Egypt (Remote Worldwide)"                                   │
- │  }                                                                          │
- │                                                                             │
- │  amr@platform-node:~$ kubectl get platform-components                       │
- │  NAME              STATUS    PROVIDER     DESCRIPTION                       │
- │  eks-cluster       Active    AWS          Production EKS Control Plane      │
- │  crossplane-iac    Ready     AWS          Self-Service RDS, S3, Redis, EC2 │
- │  argocd-gitops     Synced    Kubernetes   Zero-Touch Continuous Delivery    │
- │  kyverno-security  Enforced  Kubernetes   Automated Security & Cost Engine  │
- └─────────────────────────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20Amr!%20👋&fontSize=52&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20AWS%20%2F%20Kubernetes%20%2F%20IaC&descAlignY=57&descAlign=50&descSize=16" />
 </div>
 
-<h3 align="center">
-  Automating Cloud Infrastructure • Building Multi-Tenant Platforms • Shipping Zero-Touch GitOps
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A89D&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+%E2%9E%9F+Amr+Elzoghby+(DevOps+%26+Platform+Engineer);%24+status+%E2%9E%9F+High+School+Graduate+%7C+Entering+University+(2026);%24+stack+%E2%9E%9F+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Crossplane+%7C+ArgoCD;%24+impact+%E2%9E%9F+Multi-Tenant+K8s+IDP+%26+15K-User+E-Commerce+Platform" alt="Typing Terminal Animation" />
+</div>
+
+<br>
 
 <div align="center">
 
@@ -52,25 +32,13 @@
 
 ---
 
-## 💡 Engineering Core Values
+## 🚀 About Me
 
-> *"Infrastructure as Code, Zero-Touch GitOps, Cost-Aware Auto-Scaling."*  
-> *"Eliminating developer friction while maintaining strict security guardrails."*
-
----
-
-## 🛠️ Architecture & Projects Matrix
-
-| Architecture Layer | 🛠️ Internal Developer Platform (IDP) | 🛒 ShopScale E-Commerce |
-| :--- | :--- | :--- |
-| **System Category** | Multi-Tenant Self-Service Platform | High-Scale Microservices Platform |
-| **Capacity / Scale** | Virtual Control Planes per Team | **15,000+ Concurrent Users** Load-Tested |
-| **Infrastructure as Code** | **Crossplane** (CRDs) + **Terraform** | Modular Terraform IaC (VPC → EKS) |
-| **Control Plane & Nodes** | **EKS** + **vCluster** + **Karpenter** | **EKS** + HPA + Spot Nodes |
-| **GitOps & Delivery** | **ArgoCD ApplicationSets** + OIDC | **ArgoCD** + GitHub Actions (OIDC) |
-| **Security & Policies** | **Kyverno ClusterPolicies** + Trivy | IRSA + Falco + Secrets Manager |
-| **Cost Optimization** | VPC Endpoints (No NAT) + vCluster | VPC Endpoints ($32/mo Saved) |
-| **Repository** | [![IDP Repo](https://img.shields.io/badge/GitHub-Internal--Developer--Platform-181717?style=flat-square&logo=github)](https://github.com/amr-elzoghby/Internal-Developer-Platform) | [![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s-181717?style=flat-square&logo=github)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent) |
+- 🔭 Focused on **Platform Engineering, Cloud Infrastructure (AWS), IaC (Terraform/Crossplane), and Kubernetes**
+- 🛠️ Platform Lead: Built a multi-tenant **Internal Developer Platform (IDP)** on AWS EKS with Crossplane self-service & Kyverno guardrails
+- ⚡ Cloud Architect: Built & load-tested **ShopScale**, a high-scale e-commerce platform for **15,000+ concurrent users**
+- 💼 **Available immediately for full-time remote opportunities.**
+- 🎓 High school graduate (Class of 2026) | Entering University Degree Program (Fall 2026)
 
 ---
 
@@ -110,6 +78,54 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+---
+
+## 🔥 Featured Flagship Projects
+
+### 1️⃣ Internal Developer Platform (IDP)
+
+> **Self-service cloud infrastructure & multi-tenant GitOps developer platform on AWS EKS.**
+
+* **Multi-Tenant Control Planes:** Uses **vCluster** to isolate developer control planes and **Karpenter** for fast, cost-aware node auto-scaling.
+* **Infrastructure as Code Self-Service:** Developers provision AWS RDS Postgres, S3, ElastiCache Redis, and EC2 instances with Security Groups via **Crossplane** Kubernetes CRDs.
+* **Continuous Delivery & Security:** Multi-tenant **ArgoCD ApplicationSets** paired with **GitHub Actions OIDC** federation and **Kyverno** admission policies for automated cost & security guardrails.
+
+<br>
+<div align="center">
+
+[![IDP Repo](https://img.shields.io/badge/GitHub-Internal--Developer--Platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/Internal-Developer-Platform)
+
+</div>
+
+---
+
+### 2️⃣ ShopScale — High-Scale E-Commerce Microservices Platform
+
+> **Production-grade e-commerce microservices platform, load-tested for high-concurrency traffic.**
+
+* **High-Scale Orchestration:** Microservices running on **AWS EKS** with **gRPC** internal communication, load-tested to **15,000+ concurrent users**.
+* **Zero-Touch GitOps:** **ArgoCD** GitOps workflow integrated with **GitHub Actions (OIDC)** and ECR for credential-less, automated releases.
+* **Cost & Observability:** Replaced NAT Gateways with 6 VPC Endpoints (saving $32/mo), monitored by **Prometheus, Grafana, and Loki**.
+
+<br>
+<div align="center">
+
+[![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s--15K--Concurrent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent)
+
+</div>
+
+---
+
+## 📊 Projects Comparison Matrix
+
+| Capability / Layer | 🛠️ Internal Developer Platform (IDP) | 🛒 ShopScale E-Commerce |
+| :--- | :--- | :--- |
+| **Primary Focus** | Platform Engineering & Self-Service | High-Scale Production Microservices |
+| **IaC Engine** | **Crossplane** (CRDs) + **Terraform** | Modular Terraform IaC (VPC → EKS) |
+| **Multi-Tenancy** | **vCluster** Virtual K8s + **Karpenter** | Namespaces + HPA + Spot Nodes |
+| **GitOps Automation** | **ArgoCD ApplicationSets** | ArgoCD Helm Releases |
+| **Policy & Security** | **Kyverno ClusterPolicies** + Trivy | IRSA + Falco Threat Detection |
 
 ---
 
