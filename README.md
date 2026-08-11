@@ -1,142 +1,206 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=500&color=00A89D&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;Amr+Elzoghby+%E2%9E%9F+DevOps+%26+Platform+Engineer;Building+Multi-Tenant+Cloud+Platforms+on+AWS;Automating+IaC%2C+Kubernetes+%26+GitOps+Pipelines" alt="Welcome Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%24+whoami;amr-elzoghby+%E2%80%94+platform+engineer;building+infrastructure+that+scales;automating+everything+in+between" alt="Terminal" />
 </div>
+
+<br>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-🟢%20Available%20for%20Remote%20DevOps%20%2F%20Platform%20Roles-00A89D?style=for-the-badge&labelColor=0D1117)](mailto:amr.s.elzoghby@gmail.com)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   amr elzoghby                                               ║
+║   ─────────────────────────────                              ║
+║   devops & platform engineer                                 ║
+║                                                              ║
+║   > building multi-tenant cloud platforms on aws             ║
+║   > automating iac, kubernetes & gitops pipelines            ║
+║   > available for remote opportunities                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<br><br>
+</div>
 
-<a href="https://d2udg2xbc863j7.cloudfront.net">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D1117?style=for-the-badge&labelColor=2D9CDB" />
+<br>
+
+<div align="center">
+
+<a href="https://amr-elzoghby.github.io/portfolio">
+  <img src="https://img.shields.io/badge/portfolio-─────-0D1117?style=flat-square&labelColor=0D1117" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/amr-saad-27070b3a8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-─────-0D1117?style=flat-square&labelColor=0D1117" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:amr.s.elzoghby@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-─────-0D1117?style=flat-square&labelColor=0D1117" />
 </a>
 
 </div>
 
-<br />
+<br>
 
 ---
-
-## 🚀 About Me
-
-- 🔭 Focused on **Platform Engineering, Cloud Infrastructure (AWS), IaC (Terraform/Crossplane), and Kubernetes**
-- 🛠️ Platform Lead: Built a multi-tenant **Internal Developer Platform (IDP)** on AWS EKS with Crossplane self-service & Kyverno guardrails
-- ⚡ Cloud Architect: Built & load-tested **ShopScale**, a high-scale e-commerce platform for **15,000+ concurrent users**
-- 💼 **Available immediately for full-time remote opportunities.**
-- 🎓 High school graduate (Class of 2026) | Entering University Degree Program (Fall 2026)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**Cloud Infrastructure & IaC**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Crossplane](https://img.shields.io/badge/Crossplane-3776AB?style=for-the-badge&logo=crossplane&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-**GitOps, CI/CD & Multi-Tenancy**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![vCluster](https://img.shields.io/badge/vCluster-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Karpenter](https://img.shields.io/badge/Karpenter-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Security, Governance & Observability**
-
-![Kyverno](https://img.shields.io/badge/Kyverno-009639?style=for-the-badge&logo=kyverno&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5C400?style=for-the-badge&logo=grafana&logoColor=black)
-![Trivy](https://img.shields.io/badge/Trivy-1D262F?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00A89D?style=for-the-badge&logo=falco&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 🔥 Featured Flagship Projects
-
-### 1️⃣ Internal Developer Platform (IDP)
-
-> **Self-service cloud infrastructure & multi-tenant GitOps developer platform on AWS EKS.**
-
-* **Multi-Tenant Control Planes:** Uses **vCluster** to isolate developer control planes and **Karpenter** for fast, cost-aware node auto-scaling.
-* **Infrastructure as Code Self-Service:** Developers provision AWS RDS Postgres, S3, ElastiCache Redis, and EC2 instances with Security Groups via **Crossplane** Kubernetes CRDs.
-* **Continuous Delivery & Security:** Multi-tenant **ArgoCD ApplicationSets** paired with **GitHub Actions OIDC** federation and **Kyverno** admission policies for automated cost & security guardrails.
 
 <br>
-<div align="center">
 
-[![IDP Repo](https://img.shields.io/badge/GitHub-Internal--Developer--Platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/Internal-Developer-Platform)
-
-</div>
-
----
-
-### 2️⃣ ShopScale — High-Scale E-Commerce Microservices Platform
-
-> **Production-grade e-commerce microservices platform, load-tested for high-concurrency traffic.**
-
-* **High-Scale Orchestration:** Microservices running on **AWS EKS** with **gRPC** internal communication, load-tested to **15,000+ concurrent users**.
-* **Zero-Touch GitOps:** **ArgoCD** GitOps workflow integrated with **GitHub Actions (OIDC)** and ECR for credential-less, automated releases.
-* **Cost & Observability:** Replaced NAT Gateways with 6 VPC Endpoints (saving $32/mo), monitored by **Prometheus, Grafana, and Loki**.
+```
+  ╭─ about ───────────────────────────────────────────────────╮
+  │                                                           │
+  │  → platform lead on a multi-tenant internal developer     │
+  │    platform (idp) — aws eks, crossplane, kyverno          │
+  │                                                           │
+  │  → cloud architect behind shopscale — load-tested for     │
+  │    15,000+ concurrent users                               │
+  │                                                           │
+  │  → high school graduate (2026)                            │
+  │    entering university — fall 2026                        │
+  │                                                           │
+  ╰───────────────────────────────────────────────────────────╯
+```
 
 <br>
-<div align="center">
-
-[![ShopScale Repo](https://img.shields.io/badge/GitHub-High--Scale--Ecommerce--K8s--15K--Concurrent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent)
-
-</div>
 
 ---
 
-## 📊 Projects Comparison Matrix
+<br>
 
-| Capability / Layer | 🛠️ Internal Developer Platform (IDP) | 🛒 ShopScale E-Commerce |
+#### `$ cat /etc/stack`
+
+<br>
+
+<div align="center">
+
+| layer | tools |
+| :--- | :--- |
+| `cloud & iac` | aws · terraform · crossplane |
+| `containers & orchestration` | kubernetes · docker · helm · karpenter |
+| `gitops & ci/cd` | argocd · github actions · oidc |
+| `multi-tenancy` | vcluster · namespaces · rbac |
+| `security & policy` | kyverno · trivy · falco · irsa |
+| `observability` | prometheus · grafana · loki |
+| `languages` | python · bash |
+| `os` | linux |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+#### `$ ls ~/projects --featured`
+
+<br>
+
+<details>
+<summary><code>01 — internal developer platform</code></summary>
+
+<br>
+
+```
+  self-service cloud infrastructure & multi-tenant
+  gitops developer platform on aws eks.
+
+  ▸ vcluster virtual k8s + karpenter autoscaling
+  ▸ crossplane crds for rds, s3, elasticache, ec2
+  ▸ argocd applicationsets + kyverno policies
+  ▸ github actions oidc federation
+```
+
+<br>
+
+<div align="center">
+
+[![repo](https://img.shields.io/badge/source-Internal--Developer--Platform-0D1117?style=flat-square&logo=github&logoColor=888888&labelColor=0D1117)](https://github.com/amr-elzoghby/Internal-Developer-Platform)
+
+</div>
+
+</details>
+
+<details>
+<summary><code>02 — shopscale e-commerce platform</code></summary>
+
+<br>
+
+```
+  production-grade microservices platform,
+  load-tested for high-concurrency traffic.
+
+  ▸ aws eks + grpc — 15,000+ concurrent users
+  ▸ argocd gitops + github actions oidc + ecr
+  ▸ replaced nat gateways with vpc endpoints (-$32/mo)
+  ▸ prometheus, grafana & loki observability stack
+```
+
+<br>
+
+<div align="center">
+
+[![repo](https://img.shields.io/badge/source-High--Scale--Ecommerce--K8s-0D1117?style=flat-square&logo=github&logoColor=888888&labelColor=0D1117)](https://github.com/amr-elzoghby/High-Scale-Ecommerce-K8s-15K-Concurrent)
+
+</div>
+
+</details>
+
+<br>
+
+---
+
+<br>
+
+#### `$ diff projects`
+
+<br>
+
+<div align="center">
+
+| | `idp` | `shopscale` |
 | :--- | :--- | :--- |
-| **Primary Focus** | Platform Engineering & Self-Service | High-Scale Production Microservices |
-| **IaC Engine** | **Crossplane** (CRDs) + **Terraform** | Modular Terraform IaC (VPC → EKS) |
-| **Multi-Tenancy** | **vCluster** Virtual K8s + **Karpenter** | Namespaces + HPA + Spot Nodes |
-| **GitOps Automation** | **ArgoCD ApplicationSets** | ArgoCD Helm Releases |
-| **Policy & Security** | **Kyverno ClusterPolicies** + Trivy | IRSA + Falco Threat Detection |
+| focus | platform engineering | high-scale microservices |
+| iac | crossplane + terraform | modular terraform |
+| tenancy | vcluster + karpenter | namespaces + hpa + spot |
+| gitops | argocd applicationsets | argocd helm releases |
+| security | kyverno + trivy | irsa + falco |
+
+</div>
+
+<br>
 
 ---
 
-## 📊 GitHub Stats & Contributions
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amr-elzoghby&theme=tokyonight&hide_border=true&background=0D1117" alt="Amr's GitHub Streak" width="60%" />
+
+<img src="https://streak-stats.demolab.com/?user=amr-elzoghby&theme=dark&hide_border=true&background=0D1117&stroke=1a1a1a&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=555555&currStreakNum=888888&sideNums=555555&dates=333333" alt="streak" width="55%" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-elzoghby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=amr-elzoghby&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="trophies" />
+
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+
+```
+                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                    █                              █
+                    █    everything is automated    █
+                    █    or it doesn't exist.       █
+                    █                              █
+                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
 </div>
